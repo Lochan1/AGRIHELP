@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: blue;
+ /* background:url("https://wallpapercave.com/dwp1x/wp2060683.jpg"); */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Navbar{
+ 
+  
+ margin:0;
+  
+}
+
+
+.wetherBg{
+  background:url("https://images.hdqwalls.com/download/moonrise-minimal-4k-1i-1920x1080.jpg");
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:white;
+  font-weight: 700;
+}
+.wetherResultBox{
+  background:url("https://images.hdqwalls.com/download/moonrise-minimal-4k-1i-1920x1080.jpg");
+  margin: auto;
+  width: 1000px;
+  height: 800px;
+  border-radius: 500px;
+}
+.weathorIcon{
+  margin-top: 2rem;
+  width: 200px;
+  height: 200px;
+}
+.weathorCity{
+  font-size: 35px;
+}
+.weathorTemp{
+  font-size:60px;
+  font-weight: 900;
+  color:yellowgreen;
+
+}
+.Card{
+  background-attachment: red !;
+}
+.containerparali{
+  background:url("https://i.pinimg.com/originals/c4/47/cc/c447cce1b4eb17d59ea2754726d7df79.jpg");
+
+
+}
+
+.method{
+
+  background:url("https://c4.wallpaperflare.com/wallpaper/561/62/373/night-sky-4k-hd-full-screen-wallpaper-preview.jpg");
+}
